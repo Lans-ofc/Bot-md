@@ -51,8 +51,8 @@ global.dtu = '🌏 GROUP OFFICIAL'
 global.urlnya = global.linkgc
 
 //============= callButtons ============//
-global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.dtc = 'MAULANA么'
+global.phn = '+62 831-3274-9084'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
