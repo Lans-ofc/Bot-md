@@ -343,7 +343,7 @@ Saya Adalah Dark Multidevice么 Salah Satu Bot Whatsapp Yang Siap Membantu Kamu 
     		key: m.key
     	}
     })*/
-return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 300, 300), ori, `Note : Jika Anda Menggunakan Wa Lama Atau Mod Dan Tombol Itu Tidak Terlihat Langsung Ketik ${_p}simplemenu`, 'MENU DARK-MD么', '.simplemenu', 'DONASI BOT🗿', '.donasi', 'SEWA BOT', '.sewa', m)
+return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 300, 300), ori, `Note : Jika Anda Menggunakan Wa Lama Atau Mod Dan Tombol Itu Tidak Terlihat Langsung Ketik ${_p}simplemenu`, 'MENU DARK-MD么', '.simplemenu', 'DONASI BOT🗿', '.donasi', 'SEW BOT', '.sewa', m)
     
     }
   
@@ -396,7 +396,7 @@ return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 
      text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name]) 
      //await conn.reply(m.chat, '*L o a d i n g . . .*', fload) 
  
-   /*await conn.send2ButtonImg(m.chat, await (await fetch('https://api.xteam.xyz/textpro/glitch?text=' + teks + '&text2=Raa%20Botz-MD%20BY%20Claraa%20Chan&APIKEY=bf8ff984af1506b7')).buffer(), text.trim(), hao, 'Donasi', '.donasi', 'Rules', '.rules', m, { 
+   /*await conn.send2ButtonImg(m.chat, await (await fetch('https://api.xteam.xyz/textpro/glitch?text=' + teks + '&text2=Dark%20Botz-MD%20BY%20Maulana%20Chan&APIKEY=bf8ff984af1506b7')).buffer(), text.trim(), hao, 'Donasi', '.donasi', 'Rules', '.rules', m, { 
      quoted: ftoko, 
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
@@ -428,7 +428,7 @@ await conn.send2ButtonLoc(m.chat, await conn.resize(await (await fetch(flu + te
      //conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m).catch(_ => conn.reply(m.chat, text.trim(), m))
   conn.sendFile(m.chat, 'https://bit.ly/3AtM34K', 'haori.mp3', null, m, true, {
 type: 'audioMessage', 
-ptt: true, contextInfo:{ externalAdReply: { title: `💌 Ultah Claraa : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`, body: `${pickRandom(['Follow My Instagram Plis •~•'])}`, sourceUrl: 'https://www.instagram.com/inizenscuy/', thumbnail: await (await fetch('https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg')).buffer(),}} 
+ptt: true, contextInfo:{ externalAdReply: { title: `Lans Ganteng 🗿 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`, body: `${pickRandom(['Follow My Instagram Plis •~•'])}`, sourceUrl: 'https://www.instagram.com/lans_store03/', thumbnail: await (await fetch('https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg')).buffer(),}} 
      })
 } catch (e) { 
      conn.reply(m.chat, 'Maaf, menu sedang error', m) 
