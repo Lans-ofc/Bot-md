@@ -186,7 +186,7 @@ ${'```%npmdesc```'}
            let hao = `▸ Ⓟ = for premium users.\n▸ Ⓛ = fitur berlimit.
  
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'62895604670507'.split('@')[0]}*`
+ *Powered By @${'6283132749084'.split('@')[0]}*`
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
      let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
      let package = JSON.parse(await fs.promises.readFile(path.join(__dirname, '../package.json')).catch(_ => '{}')) 
@@ -298,7 +298,7 @@ ${'```%npmdesc```'}
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `RaaBotz-MD By Claraa`, 
+    message: `DARK-MD么 By Maulana`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/f32f779ce8eaf70158228.jpg')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -336,14 +336,14 @@ ${'```%npmdesc```'}
  	let cute = `${pickRandom(['https://telegra.ph/file/520a7d8d531f976ed23b5.jpg', 'https://telegra.ph/file/862e5a42d3435e12b2ec2.jpg', 'https://telegra.ph/file/aebb49a158df5a6da47d6.jpg', 'https://telegra.ph/file/8d0f6476b51d76eaf8cea.jpg','https://telegra.ph/file/cc86d58dd6c6ec6828ce0.jpg','https://telegra.ph/file/309fe309cf1a8f0b9a463.jpg', 'https://telegra.ph/file/10377f92ab3043979485b.jpg', 'https://telegra.ph/file/b4a60b95b203cfb6678f3.jpg', 'https://telegra.ph/file/81ac8ecd55d4a6deb8463.jpg'])}` 
  	let ori = `Hi Kak, @${m.sender.split`@`[0]}
  
-Saya Adalah Raa Bot Salah Satu Bot Whatsapp Yang Siap Membantu Kamu Mempermudah Sesuatu Seperti Membuat Sticker Dan Lainnya, Kalo Kamu Mau Request Fitur Silahkan Ketik #request Pesan Atau Fitur Yang Kamu Inginkan!`
+Saya Adalah Dark Multidevice么 Salah Satu Bot Whatsapp Yang Siap Membantu Kamu Mempermudah Sesuatu Seperti Membuat Sticker Dan Lainnya, Kalo Kamu Mau Request Fitur Silahkan Ketik #request Pesan Atau Fitur Yang Kamu Inginkan!`
 /*conn.sendMessage(m.chat, {
     	react: {
     		text: emot,
     		key: m.key
     	}
     })*/
-return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 300, 300), ori, `Note : Jika Anda Menggunakan Wa Lama Atau Mod Dan Tombol Itu Tidak Terlihat Langsung Ketik ${_p}simplemenu`, 'COMMAND', '.simplemenu', 'DONATION', '.donasi', 'RENT BOT', '.sewa', m)
+return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 300, 300), ori, `Note : Jika Anda Menggunakan Wa Lama Atau Mod Dan Tombol Itu Tidak Terlihat Langsung Ketik ${_p}simplemenu`, 'MENU DARK-MD么', '.simplemenu', 'DONASI BOT🗿', '.donasi', 'SEWA BOT', '.sewa', m)
     
     }
   
@@ -400,7 +400,7 @@ return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 
      quoted: ftoko, 
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
-             title: 'RaaBotz-MD Testing Project By Claraa', 
+             title: 'Dark-MD Testing Project By Maulana', 
              body: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
              description: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
              mediaType: 2, 
@@ -416,7 +416,7 @@ await conn.send2ButtonLoc(m.chat, await conn.resize(await (await fetch(flu + te
      quoted: ftoko, 
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
-             title: 'RaaBotz-MD Testing Project By Claraa', 
+             title: 'DarkBotz-MD Testing Project By maulana', 
              body: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
              description: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
              mediaType: 2, 
@@ -438,7 +438,7 @@ ptt: true, contextInfo:{ externalAdReply: { title: `💌 Ultah Claraa : ${ohari
  handler.help = ['menu', 'help', '?'] 
  handler.tags = ['main'] 
  handler.command = /^(m(enu)?|help|\?)$/i 
- handler.owner = false 
+ handler.owner = false
  handler.mods = false 
  handler.premium = false 
  handler.group = false 
