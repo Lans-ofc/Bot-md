@@ -298,7 +298,7 @@ ${'```%npmdesc```'}
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `DARK-MD么 By Maulana`, 
+    message: `VILLAIN-MD么 By Maulana`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/f32f779ce8eaf70158228.jpg')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -343,7 +343,7 @@ Saya Adalah Villain Multidevice么 Salah Satu Bot Whatsapp Yang Siap Membantu Ka
     		key: m.key
     	}
     })*/
-return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 300, 300), ori, `Note : Jika Anda Menggunakan Wa Lama Atau Mod Dan Tombol Itu Tidak Terlihat Langsung Ketik ${_p}simplemenu`, 'MENU DARK-MD么', '.simplemenu', 'DONASI BOT🗿', '.donasi', 'SEW BOT', '.sewa', m)
+return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 300, 300), ori, `Note : Jika Anda Menggunakan Wa Lama Atau Mod Dan Tombol Itu Tidak Terlihat Langsung Ketik ${_p}simplemenu`, 'ᴄᴏᴍᴍᴀɴᴅ', '.simplemenu', 'DONASI BOT🗿', '.donasi', 'SEWA BOT', '.sewa', m)
     
     }
   
