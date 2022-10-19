@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6283132749084', 'Maulana么', true], 
-['6283132749084', 'TOLONG JGN SPAM', true] 
+['6282161152073', 'Dani', true], 
+['6282161152073', 'TOLONG JGN SPAM', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -37,11 +37,11 @@ global.APIKeys = { // APIKey Here
 global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
 global.WM = 'Dani - Bots𝑩𝒚 Maulana'
 global.linkgc = 'https://chat.whatsapp.com/BRf4zHTYOTjKf8IUhVsrbv'
-global.linkig = 'https://www.instagram.com/lans_store03'
+global.linkig = 'https://www.instagram.com/danigans39_'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@lans_store03'
+global.bodlink = '@danigans39_'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -51,8 +51,8 @@ global.dtu = '🌏 GROUP OFFICIAL'
 global.urlnya = global.linkgc
 
 //============= callButtons ============//
-global.dtc = 'MAULANA么'
-global.phn = '+62 831-3274-9084'
+global.dtc = 'Dani么'
+global.phn = '+62 821-6115-2073'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
