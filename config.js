@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
-global.WM = 'villain-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Maulana'
+global.WM = 'Dani - Bots𝑩𝒚 Maulana'
 global.linkgc = 'https://chat.whatsapp.com/BRf4zHTYOTjKf8IUhVsrbv'
 global.linkig = 'https://www.instagram.com/lans_store03'
 global.deslink = ''
